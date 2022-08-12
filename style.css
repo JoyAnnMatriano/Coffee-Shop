@@ -1,0 +1,87 @@
+a:link {
+	color:white;
+	text-decoration: none;
+}
+a:visited {
+	color:#362706;
+}
+a:hover{
+	color:#E9E5D6;
+	background-color:#362706;
+	text-align: center;
+}
+a:active{
+	color:#E9E5D6;
+}
+
+body {
+	background-color:#362706;
+	color:#3300000;
+	font-family: Arial;
+}
+#container{
+	margin-top: 50px;
+	margin-left: 20%;
+	height: 700px;
+	width: 755px;
+	border-style:solid;
+	padding:0px;
+}
+#header{
+	background-color: #464E2E;
+	text-align: center;
+	color: #E9E5D6;
+	border-bottom-style: solid;
+	border-top-style: solid;
+	border-color:black;
+	height:60px;
+	margin: 0px;
+}
+#options{
+	background-color: #ACB992;
+	border-color: #464E2E;
+	position: relative;
+	width:755px;
+	height:25px;
+	
+	text-align: center;
+	word-spacing: 70px;
+	
+}
+#table{
+	border-spacing: 0px;
+	border-style: solid;
+	border-color: black;
+}
+#context_body{
+	background-color: #E9E5D6;
+	position: absolute;
+	width:736px;
+	height:540px;
+	bottom:620px;
+	padding: 9px;
+	float:right;
+}
+#navBar{
+	text-align: center;
+}
+
+#CoffeePic{
+	position: absolute;
+	top: 230px;
+	bottom: 300px;
+	left: 280px;
+	right:600px;
+}
+
+#footer{
+	background-color: #464E2E;
+	border-top-style: solid;
+	height: 1px;
+	text-align: center;
+	font-style: italic;
+	width: 755px;
+	margin-top: 560px;
+	padding-top: 10px;
+	padding-bottom: 35px;
+}
